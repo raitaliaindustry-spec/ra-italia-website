@@ -9,13 +9,17 @@
     ['#azienda .eyebrow', ['La nostra storia · dal 2004'], ['Our story · since 2004']],
     ['#azienda h2', ['Esperienza e cura, dal primo taglio al capo finito.'], ['Experience and care, from the first cut to the finished garment.']],
     ['.intro-copy p', [
-      '<strong>La storia di R.A. ITALIA inizia nel 2004 a Sant’Antimo, con un obiettivo chiaro: realizzare capi d’abbigliamento curati e ben confezionati.</strong> Da allora lavoriamo con passione nel settore, mettendo l’esperienza maturata in oltre vent’anni al servizio di aziende e marchi.',
-      'Produciamo e confezioniamo giacche, pantaloni eleganti, tailleur donna e altri capi per uomo e donna. Tagliamo la stoffa, cuciamo, stiriamo, applichiamo le etichette e confezioniamo i capi, seguendo le lavorazioni concordate per ogni progetto.',
-      'Se cerchi un partner produttivo per la tua prossima collezione, raccontaci la tua idea: valuteremo insieme come trasformarla in capi concreti.'
+      "Una collezione nasce molto prima di essere indossata. Nasce da un’idea, dalla scelta attenta di un tessuto e dal desiderio di creare capi in cui le persone possano sentirsi a proprio agio e riconoscersi.",
+      "La storia di R.A. ITALIA inizia nel 2004 a Sant’Antimo. Da oltre vent’anni affianchiamo aziende e marchi per dare forma alle loro idee, con l’esperienza di chi conosce il valore di un taglio preciso, di una cucitura ben eseguita e di un capo curato in ogni dettaglio.",
+      "Realizziamo e confezioniamo giacche, pantaloni eleganti, tailleur donna e altri capi per uomo e donna. Dal taglio del tessuto alla cucitura, dalla stiratura all’applicazione delle etichette e al confezionamento, seguiamo le lavorazioni concordate per ogni progetto.",
+      "Perché dietro ogni capo c’è il tuo nome, e sappiamo quanto conta. Tu immagini la prossima collezione; noi mettiamo esperienza e cura al servizio della sua realizzazione.",
+      "Contattaci e raccontaci il tuo progetto: il primo passo per vederlo prendere forma comincia da qui."
     ], [
-      '<strong>R.A. ITALIA began in 2004 in Sant’Antimo with a clear goal: to make carefully crafted, well-finished garments.</strong> Since then, we have served apparel companies and brands with the experience built over more than twenty years.',
-      'We produce jackets, tailored trousers, women’s suits and other garments. We cut, sew, press, label and package each piece, following the agreed specifications for every project.',
-      'Looking for a manufacturing partner for your next collection? Tell us about your project and we can discuss how to bring it to life.'
+      "A collection begins long before it is worn. It starts with an idea, the careful choice of a fabric, and the desire to create garments people can feel comfortable in and identify with.",
+      "R.A. ITALIA’s story began in 2004 in Sant’Antimo. For more than twenty years, we have partnered with companies and brands to bring their ideas to life, drawing on the experience of people who understand the value of a precise cut, a well-made seam, and a garment cared for down to the last detail.",
+      "We produce and finish jackets, tailored trousers, women’s suits and other garments for men and women. From fabric cutting and sewing to pressing, labelling and packaging, we follow the processes agreed for each project.",
+      "Behind every garment is your name, and we know how much that matters. You imagine your next collection; we bring our experience and care to its production.",
+      "Contact us and tell us about your project: this is where the first step toward bringing it to life begins."
     ]],
     ['#azienda .stat strong', ['22', '2', 'Dal taglio'], ['22', '2', 'From cutting']],
     ['#azienda .stat span', ['anni di esperienza', 'linee uomo e donna', 'al capo confezionato'], ['years of experience', 'menswear and womenswear', 'to the finished garment']],
